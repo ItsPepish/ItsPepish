@@ -6,12 +6,12 @@
 ### Tech Stack
 ### Backend Development
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=black)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F03C2E?style=flat&logo=git&logoColor=white)
@@ -23,9 +23,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Other Tools
-![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-2F61B4?style=flat&logo=virtualbox&logoColor=black)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-2F61B4?style=flat&logo=virtualbox&logoColor=white)
 
 
 
