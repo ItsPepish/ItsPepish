@@ -13,7 +13,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=black)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## Development Tools
+### Development Tools
 ![Git](https://img.shields.io/badge/-Git-F03C2E?style=flat&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white)
