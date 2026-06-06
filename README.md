@@ -9,8 +9,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=black)
 
 ### Frontend Development
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=black)
-![CSS](https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-663399?style=flat&logo=css3&logoColor=black)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Development Tools
